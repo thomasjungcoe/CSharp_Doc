@@ -1,0 +1,15 @@
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Get_Started\Intro\bin\Debug\net8.0\Intro.exe
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Get_Started\Intro\bin\Debug\net8.0\Intro.deps.json
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Get_Started\Intro\bin\Debug\net8.0\Intro.runtimeconfig.json
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Get_Started\Intro\bin\Debug\net8.0\Intro.dll
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Get_Started\Intro\bin\Debug\net8.0\Intro.pdb
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Get_Started\Intro\obj\Debug\net8.0\Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Get_Started\Intro\obj\Debug\net8.0\Intro.AssemblyInfoInputs.cache
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Get_Started\Intro\obj\Debug\net8.0\Intro.AssemblyInfo.cs
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Get_Started\Intro\obj\Debug\net8.0\Intro.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Get_Started\Intro\obj\Debug\net8.0\Intro.sourcelink.json
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Get_Started\Intro\obj\Debug\net8.0\Intro.dll
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Get_Started\Intro\obj\Debug\net8.0\refint\Intro.dll
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Get_Started\Intro\obj\Debug\net8.0\Intro.pdb
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Get_Started\Intro\obj\Debug\net8.0\Intro.genruntimeconfig.cache
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Get_Started\Intro\obj\Debug\net8.0\ref\Intro.dll

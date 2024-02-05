@@ -15,3 +15,4 @@ Assemblies contain executable code in the form of Intermediate Language (IL) ins
 Because an assembly is a self-describing unit of functionality containing both code and metadata, there's no need for "#include" directives and header files in C#.
     The public types and members contained in a particular assembly are made available in C# program simply by referencing that assembly when compilling the program
         ex.) this program uses the Acme.Collections.Stack class from the acme.dll assembly
+

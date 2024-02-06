@@ -76,3 +76,7 @@ Constructors
 Properties
     Properties are a natursal extensions of fields. However unlike fields, properties don't denot storage locations.
         Instead, properties have accessors that specify the statements executed when their values are read or written (get and set accessors)
+
+Indexers
+    An indexer is a member that enables obj to be indexed in the same way as an array via 'this' followed by [].
+

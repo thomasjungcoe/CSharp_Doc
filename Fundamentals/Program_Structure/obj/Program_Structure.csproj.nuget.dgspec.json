@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thoma\\Desktop\\projects\\CSharp_Doc\\Types_Members\\Types_Members.csproj": {}
+    "C:\\Users\\thoma\\Desktop\\projects\\CSharp_Doc\\Fundamentals\\Program_Structure\\Program_Structure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thoma\\Desktop\\projects\\CSharp_Doc\\Types_Members\\Types_Members.csproj": {
+    "C:\\Users\\thoma\\Desktop\\projects\\CSharp_Doc\\Fundamentals\\Program_Structure\\Program_Structure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thoma\\Desktop\\projects\\CSharp_Doc\\Types_Members\\Types_Members.csproj",
-        "projectName": "Types_Members",
-        "projectPath": "C:\\Users\\thoma\\Desktop\\projects\\CSharp_Doc\\Types_Members\\Types_Members.csproj",
+        "projectUniqueName": "C:\\Users\\thoma\\Desktop\\projects\\CSharp_Doc\\Fundamentals\\Program_Structure\\Program_Structure.csproj",
+        "projectName": "Program_Structure",
+        "projectPath": "C:\\Users\\thoma\\Desktop\\projects\\CSharp_Doc\\Fundamentals\\Program_Structure\\Program_Structure.csproj",
         "packagesPath": "C:\\Users\\thoma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thoma\\Desktop\\projects\\CSharp_Doc\\Types_Members\\obj\\",
+        "outputPath": "C:\\Users\\thoma\\Desktop\\projects\\CSharp_Doc\\Fundamentals\\Program_Structure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thoma\\AppData\\Roaming\\NuGet\\NuGet.Config"

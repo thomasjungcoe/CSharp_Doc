@@ -1,0 +1,15 @@
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Types_Members\obj\Debug\net8.0\Types_Members.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Types_Members\obj\Debug\net8.0\Types_Members.AssemblyInfoInputs.cache
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Types_Members\obj\Debug\net8.0\Types_Members.AssemblyInfo.cs
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Types_Members\obj\Debug\net8.0\Types_Members.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Types_Members\obj\Debug\net8.0\Types_Members.sourcelink.json
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Types_Members\bin\Debug\net8.0\Types_Members.exe
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Types_Members\bin\Debug\net8.0\Types_Members.deps.json
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Types_Members\bin\Debug\net8.0\Types_Members.runtimeconfig.json
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Types_Members\bin\Debug\net8.0\Types_Members.dll
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Types_Members\bin\Debug\net8.0\Types_Members.pdb
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Types_Members\obj\Debug\net8.0\Types_Members.dll
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Types_Members\obj\Debug\net8.0\refint\Types_Members.dll
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Types_Members\obj\Debug\net8.0\Types_Members.pdb
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Types_Members\obj\Debug\net8.0\Types_Members.genruntimeconfig.cache
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Types_Members\obj\Debug\net8.0\ref\Types_Members.dll

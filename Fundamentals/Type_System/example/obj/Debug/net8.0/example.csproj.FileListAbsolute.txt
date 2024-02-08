@@ -1,0 +1,15 @@
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Type_System\example\obj\Debug\net8.0\example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Type_System\example\obj\Debug\net8.0\example.AssemblyInfoInputs.cache
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Type_System\example\obj\Debug\net8.0\example.AssemblyInfo.cs
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Type_System\example\obj\Debug\net8.0\example.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Type_System\example\obj\Debug\net8.0\example.sourcelink.json
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Type_System\example\bin\Debug\net8.0\example.exe
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Type_System\example\bin\Debug\net8.0\example.deps.json
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Type_System\example\bin\Debug\net8.0\example.runtimeconfig.json
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Type_System\example\bin\Debug\net8.0\example.dll
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Type_System\example\bin\Debug\net8.0\example.pdb
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Type_System\example\obj\Debug\net8.0\example.dll
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Type_System\example\obj\Debug\net8.0\refint\example.dll
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Type_System\example\obj\Debug\net8.0\example.pdb
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Type_System\example\obj\Debug\net8.0\example.genruntimeconfig.cache
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Type_System\example\obj\Debug\net8.0\ref\example.dll

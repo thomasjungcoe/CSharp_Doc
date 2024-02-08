@@ -1,0 +1,15 @@
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Object-Oriented_Prog\obj\Debug\net8.0\Object-Oriented_Prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Object-Oriented_Prog\obj\Debug\net8.0\Object-Oriented_Prog.AssemblyInfoInputs.cache
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Object-Oriented_Prog\obj\Debug\net8.0\Object-Oriented_Prog.AssemblyInfo.cs
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Object-Oriented_Prog\obj\Debug\net8.0\Object-Oriented_Prog.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Object-Oriented_Prog\obj\Debug\net8.0\Object-Oriented_Prog.sourcelink.json
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Object-Oriented_Prog\bin\Debug\net8.0\Object-Oriented_Prog.exe
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Object-Oriented_Prog\bin\Debug\net8.0\Object-Oriented_Prog.deps.json
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Object-Oriented_Prog\bin\Debug\net8.0\Object-Oriented_Prog.runtimeconfig.json
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Object-Oriented_Prog\bin\Debug\net8.0\Object-Oriented_Prog.dll
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Object-Oriented_Prog\bin\Debug\net8.0\Object-Oriented_Prog.pdb
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Object-Oriented_Prog\obj\Debug\net8.0\Object-Oriented_Prog.dll
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Object-Oriented_Prog\obj\Debug\net8.0\refint\Object-Oriented_Prog.dll
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Object-Oriented_Prog\obj\Debug\net8.0\Object-Oriented_Prog.pdb
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Object-Oriented_Prog\obj\Debug\net8.0\Object-Oriented_Prog.genruntimeconfig.cache
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Object-Oriented_Prog\obj\Debug\net8.0\ref\Object-Oriented_Prog.dll

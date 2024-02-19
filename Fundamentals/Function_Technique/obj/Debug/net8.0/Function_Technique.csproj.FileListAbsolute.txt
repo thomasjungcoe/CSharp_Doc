@@ -1,0 +1,15 @@
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Function_Technique\obj\Debug\net8.0\Function_Technique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Function_Technique\obj\Debug\net8.0\Function_Technique.AssemblyInfoInputs.cache
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Function_Technique\obj\Debug\net8.0\Function_Technique.AssemblyInfo.cs
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Function_Technique\obj\Debug\net8.0\Function_Technique.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Function_Technique\obj\Debug\net8.0\Function_Technique.sourcelink.json
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Function_Technique\bin\Debug\net8.0\Function_Technique.exe
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Function_Technique\bin\Debug\net8.0\Function_Technique.deps.json
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Function_Technique\bin\Debug\net8.0\Function_Technique.runtimeconfig.json
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Function_Technique\bin\Debug\net8.0\Function_Technique.dll
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Function_Technique\bin\Debug\net8.0\Function_Technique.pdb
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Function_Technique\obj\Debug\net8.0\Function_Technique.dll
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Function_Technique\obj\Debug\net8.0\refint\Function_Technique.dll
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Function_Technique\obj\Debug\net8.0\Function_Technique.pdb
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Function_Technique\obj\Debug\net8.0\Function_Technique.genruntimeconfig.cache
+C:\Users\thoma\Desktop\projects\CSharp_Doc\Fundamentals\Function_Technique\obj\Debug\net8.0\ref\Function_Technique.dll

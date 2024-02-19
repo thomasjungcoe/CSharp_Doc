@@ -1,0 +1,15 @@
+C:\Users\thoma\Desktop\projects\CSharp_Doc\AsyncProgramming\obj\Debug\net8.0\AsynProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\Desktop\projects\CSharp_Doc\AsyncProgramming\obj\Debug\net8.0\AsynProgramming.AssemblyInfoInputs.cache
+C:\Users\thoma\Desktop\projects\CSharp_Doc\AsyncProgramming\obj\Debug\net8.0\AsynProgramming.AssemblyInfo.cs
+C:\Users\thoma\Desktop\projects\CSharp_Doc\AsyncProgramming\obj\Debug\net8.0\AsynProgramming.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Desktop\projects\CSharp_Doc\AsyncProgramming\obj\Debug\net8.0\AsynProgramming.sourcelink.json
+C:\Users\thoma\Desktop\projects\CSharp_Doc\AsyncProgramming\bin\Debug\net8.0\AsynProgramming.exe
+C:\Users\thoma\Desktop\projects\CSharp_Doc\AsyncProgramming\bin\Debug\net8.0\AsynProgramming.deps.json
+C:\Users\thoma\Desktop\projects\CSharp_Doc\AsyncProgramming\bin\Debug\net8.0\AsynProgramming.runtimeconfig.json
+C:\Users\thoma\Desktop\projects\CSharp_Doc\AsyncProgramming\bin\Debug\net8.0\AsynProgramming.dll
+C:\Users\thoma\Desktop\projects\CSharp_Doc\AsyncProgramming\bin\Debug\net8.0\AsynProgramming.pdb
+C:\Users\thoma\Desktop\projects\CSharp_Doc\AsyncProgramming\obj\Debug\net8.0\AsynProgramming.dll
+C:\Users\thoma\Desktop\projects\CSharp_Doc\AsyncProgramming\obj\Debug\net8.0\refint\AsynProgramming.dll
+C:\Users\thoma\Desktop\projects\CSharp_Doc\AsyncProgramming\obj\Debug\net8.0\AsynProgramming.pdb
+C:\Users\thoma\Desktop\projects\CSharp_Doc\AsyncProgramming\obj\Debug\net8.0\AsynProgramming.genruntimeconfig.cache
+C:\Users\thoma\Desktop\projects\CSharp_Doc\AsyncProgramming\obj\Debug\net8.0\ref\AsynProgramming.dll

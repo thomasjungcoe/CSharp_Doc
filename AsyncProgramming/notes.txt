@@ -1,0 +1,77 @@
+Asynchronous programming with async and await
+
+    The Task asynchronous programming model (TAP) provides an abstraction over asynchronous code.
+        You write code as a sequence of statements, just like always.
+        The compiler performs many transformations bc some of those statements may start work and return a Task that represents the ongoing work.
+
+        That's the goal of this syntax: enable code that reads like a sequence of statements, but executes in a much more complicated order based on external resource
+            allocation and when tasks are complete.
+
+
+Asynchronous programming scenarios
+    If you have any I/O-bound needs (such as requesting data from a network, accessing a database, or reading or writing to a file system), 
+        you'll want to utilize asynchronous programming.
+    C# has a language-level asynchronous programming model, which allows for easily writing async code without having to juggle callbacks and 
+        conforms to a library that supports asynchrony. It follows what is known as the Task-based Asyn Pattern (TAP).
+
+    Overview of the async model
+        The core of async programming is the "Task" and "Task<T>" obj, which model async operations.
+        They are supported by the "async" and "await" keywords.
+            * For I/O-bound code, you await an operation that returns a "Task" or "Task<T>" inside of an "async" method.
+            * For CPU-bound code, you await an operation that is started on a background thread with the Task.Run method.
+    
+    I/O-bound example: Download data from a web service
+        You may need to download some data from a web service when a button is pressed but don't want to block the UI thread. It can be accomplished like this.
+            s_downloadButton.Clicked += async (o, e) => {
+                // This line will yield control to the UI as the request from the web services is happening.
+                // The UI thread is now free to perform other work.
+                var stringData = await s_httpClient.GetStringAsync(URL);
+                DoSomethingWithData(stringData);
+            }
+        The code expresses the intent (downloading data asynchronously) without getting bogged down in interacting with Task objects.
+    
+    CPU-bound example: Perform a calculation for a game
+        When writing a mobile game where pressing a button can inflict damage on many enemies on the screen.
+        Performing the damage calculation can be expansive, and doing it on the UI thread would make the game appear to pause as the calculation is performed!
+
+        The best way to handle this is to start a background thread, which does the work using Task.Run, and await its result using await.
+            This allows the UI to feel smooth as the work is being done.
+
+
+    What happens under the covers
+        On the C# side of things, the compiler transforms your code into a state machine that keeps track of things like yielding execution when an "await" is reached
+            and resuming execution when a background job has finished.
+
+
+* TO USE ASP.NET Core framework for HttpGetAttribute and RouteAttribute,
+    you need to use the following commands:
+        'dotnet new webapi -n YourProjectName' and not 'dotnet new console -n YourProjectName'
+
+    
+Task asynchronous programming model
+    You can avoid performance bottlenecks and enhance the overall responsiveness of your application by using asynchronous programming. 
+    However, traditional techniques for writing asynchronous applications can be complicated, making them difficult to write, debug, and maintain.
+
+    C# support simplified approach, async programming, that leverages async support in the .NET runtime. The compiler does the difficult work that the dev used to do, 
+        and your application retains a logical structure that resembles synchronous code, resulting you to get all the advantages of async programming with a 
+        fraction of the effort.
+
+    Async Improves responsiveness
+        Asynchrony is essential for activities that are potentially blocking, such as web access, which is especially for applications that access the UI thread bc 
+            all UI-related activity usually shares one thread. If any process is blocked in a synchronous application, all are blocked.
+
+    ~~~
+    ~~~
+
+
+Async return types (#C)
+    Async methods can have the following return types:
+    * Task          -- for an async method that performs an operation but returns no value
+    * Task<TResult> -- for an async method that returns a value 
+    * void          -- for an event handler
+    * any type that has an accessible 'GetAwaiter' method 
+                    -- The obj returned by "GetAwaiter" method must implement the System.RunTime.CompilerServices.ICriticalNotifyCompletion interface.
+    * IAsyncEnumerable<T>  -- for an async method that returns an async stream.
+
+    Several other types also exist that are specific to Windows workloads
+    * DispatcherOperation, IAsyncAction, IAsyncActionWithProgress, IAsyncOperation<TResult>, IAsyncOperationWithProgress<TResult, TProgress>
